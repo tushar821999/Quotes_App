@@ -8,5 +8,7 @@ Quotes App With share and copy feature
 # API Endpoint Url
 https://talaikis.com/api/quotes/
 
+# APK Link
+https://firebasestorage.googleapis.com/v0/b/database-5a4bd.appspot.com/o/app-debug.apk?alt=media&token=331c37de-255b-44fe-b001-3f21761c183d
 # Developed By Tushar Verma
 
