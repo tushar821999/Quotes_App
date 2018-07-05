@@ -1,7 +1,9 @@
 # Quotes_App
 Quotes App With share and copy feature
 
-![](https://firebasestorage.googleapis.com/v0/b/database-5a4bd.appspot.com/o/Screenshot_2018-07-05-22-30-32-072_com.androidgits.quotes.png?alt=media&token=0d7a8bf3-4241-4dea-b6c2-0cbeec4810bc)![](https://firebasestorage.googleapis.com/v0/b/database-5a4bd.appspot.com/o/Screenshot_2018-07-05-22-31-12-405_com.androidgits.quotes.png?alt=media&token=028fb0bd-93c9-4035-908b-5a548eaa9e1e)![](https://firebasestorage.googleapis.com/v0/b/database-5a4bd.appspot.com/o/Screenshot_2018-07-05-22-31-18-652_android.png?alt=media&token=c8ccbdfd-6aa3-41a1-8f85-dba9c8b24934)
+![](https://firebasestorage.googleapis.com/v0/b/database-5a4bd.appspot.com/o/a.PNG?alt=media&token=c5277b7b-d0ac-43e5-9da7-54e3bdcd9ae1)
+![](https://firebasestorage.googleapis.com/v0/b/database-5a4bd.appspot.com/o/b.PNG?alt=media&token=2bf6d7f7-27da-41f7-bb44-7a0b1c9b9dfa)
+![](https://firebasestorage.googleapis.com/v0/b/database-5a4bd.appspot.com/o/c.PNG?alt=media&token=8e979adf-865e-4ee2-b40b-c8e32ba1964a)
 
 # API Endpoint Url
 https://talaikis.com/api/quotes/
